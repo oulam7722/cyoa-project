@@ -1,3 +1,3 @@
 ## The Taxi driver ended up kidnapping you! Enjoy your stay :)
 ---
-[**Start over**](decisionschooselocation.md)
+[**Start over**](chooselocation.md)
